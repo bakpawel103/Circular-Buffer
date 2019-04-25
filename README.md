@@ -1,4 +1,5 @@
-# Circular-Buffer
+# Circular-Buffer<br>
+It's an implementation of data structure named Circular Buffer<br>
 
 Functions: <br>
   - int create(struct circular_buffer_t *cb, int N); <br>
